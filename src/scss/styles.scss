@@ -10,12 +10,6 @@
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
 // Import partials here
-
-.nav-link:hover {
-  text-decoration: underline;
-}
-
-.jumbotron {
-  background: url("../img/pirate-ship.jpg") no-repeat right top;
-  background-size: cover;
-}
+@import 'nav';
+@import 'jumbotron';
+@import 'base';

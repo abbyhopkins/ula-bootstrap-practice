@@ -1,0 +1,40 @@
+h2 {
+  font-family: 'Mansalva', cursive;
+  margin-bottom: 2px;
+}
+
+p, h6 {
+  font-family: 'Dosis', sans-serif;
+}
+
+h6 {
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  margin-bottom: 15px;
+}
+
+#carouselExampleControls {
+  margin-bottom: 10px;
+}
+
+.byline {
+  margin-bottom: .5px;
+  margin-top: 10px;
+  font-weight: bolder;
+}
+
+.byline-source {
+  font-style: italic;
+}
+
+.left-content {
+  border-right: solid grey 1px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  border-top: solid grey 1px;
+  padding-top: 5px;
+}
